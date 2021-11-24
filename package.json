@@ -21,7 +21,7 @@
     "@angular/router": "~13.0.0",
     "@fortawesome/angular-fontawesome": "^0.10.1",
     "@fortawesome/fontawesome-svg-core": "~1.2.36",
-    "@fortawesome/free-brand s-svg-icons": "^5.15.4",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
     "@fortawesome/free-regular-svg-icons": "^5.15.4",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
     "json-server": "^0.17.0",
